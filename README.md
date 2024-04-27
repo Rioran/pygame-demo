@@ -1,6 +1,7 @@
 # PYGAME SANDBOX
 
-Ну тут я маюсь дурью с PyGame.
+Simple game: SPACE changes background color, ESCAPE to quit.<br><br>
+Deployed: https://rioran.github.io/pygame-demo/game/web/index.html
 
 ### install libraries
 
